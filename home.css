@@ -1,0 +1,38 @@
+.header {
+    background-color: rgb(45, 37, 97);
+    padding:10px;
+    margin:10px;
+}
+.box {
+    border:1px solid red;
+    text-align: center;
+    background-color: rgb(248, 252, 255);
+    color:black;
+    margin: 10px;
+    width:320px;
+    height:100px;
+    margin: 20px auto;
+    font-family:Arial,;
+}
+.hr {
+    color:red;
+}
+.heading {
+    text-align: center;
+    font-family:sans-serif;
+}
+.subscribe {
+    padding-top:10px ;
+    text-align:right;
+}
+.button1 {
+    background-color: black;
+    color: white;
+}
+#edu {
+    float:left;
+    margin: 0 15px 0 0;
+}
+.rebutton {
+    background-color:orangered;
+}
